@@ -10,6 +10,7 @@ import Foundation
 
 extension Date {
     func getStringFromDate() -> String {
+        let str =  ""
         return self.debugDescription
     }
 }
